@@ -1,0 +1,101 @@
+.success-container {
+  background-image: linear-gradient(to right, pink, rgb(75, 75, 214));
+  height: 100%;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.success-background {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/quiz-game-congrats-card-bg.png');
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.trophy {
+  width: 164px;
+  height: 164px;
+  top: 273px;
+  left: 639px;
+}
+.succes-heading {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #334155;
+  margin-top: 20px;
+}
+.succes-para {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #0ea5e9;
+  margin-top: 20px;
+}
+.succes-desc {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #334155;
+}
+.succes-num {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #475569;
+}
+.report-button {
+  width: 86px;
+  height: 40px;
+  top: 757px;
+  left: 678px;
+  padding: 8px, 20px, 8px, 20px;
+  border-radius: 4px;
+  background: #0ea5e9;
+  border-width: 0px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #f8fafc;
+}
+.loss-img {
+  width: 410px;
+  height: 307px;
+  top: 225px;
+  left: 515px;
+}
+.failure-background {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding:20px;
+}
